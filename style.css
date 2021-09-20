@@ -2,7 +2,7 @@ body {
   margin: 0 2em 0 2em; /*this puts footer bottom*/
   position: relative;/*this puts footer bottom*/
   min-height: 100%; /*this make footer text small*/
-  padding: 0;
+  padding: 0; /*makes footer have space on sides*/
   font-family: system-ui;
   background: #f06d06;
   color: purple;
