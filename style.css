@@ -1,0 +1,32 @@
+body {
+  margin: 0 2em 0 2em; /*this puts footer bottom*/
+  position: relative;/*this puts footer bottom*/
+  min-height: 100%; /*this make footer text small*/
+  padding: 0;
+  font-family: system-ui;
+  background: #f06d06;
+  color: purple;
+  text-align: center;
+}
+h1 {
+  font-size: 60px;
+}
+li{
+display:inline;
+border:3px solid #571CAE;
+background:white;
+margin:6px;
+padding:6px;
+border-radius:5px;
+}
+
+.footer {
+  position: absolute;
+  color: #fff;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1em;
+  background-color: #571CAE;
+  text-align: center;
+}
