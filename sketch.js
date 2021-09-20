@@ -12,4 +12,3 @@ function draw() {
     ellipse(mouseX+10, mouseY-10, 10, 10);
     ellipse(mouseX-10, mouseY-10, 10, 10);
 }
-© 2021 GitHub, Inc.
